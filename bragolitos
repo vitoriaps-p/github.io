@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Braga - Tópicos e Músicas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Braga - Tópicos e Músicas</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#biografia">Biografia</a></li>
+            <li><a href="#discografia">Discografia</a></li>
+            <li><a href="#topicos">Tópicos</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="biografia">
+            <h2>Biografia</h2>
+            <p>Braga é um artista brasileiro conhecido por suas letras profundas e melodias cativantes. </p>
+        </section>
+        <section id="discografia">
+            <h2>Discografia</h2>
+            <ul>
+                <li>Álbum 1 (Ano)</li>
+                <li>Álbum 2 (Ano)</li>
+                <li>Álbum 3 (Ano)</li>
+            </ul>
+        </section>
+        <section id="topicos">
+            <h2>Tópicos</h2>
+            <article>
+                <h3>Inspirações de Braga</h3>
+                <p>Braga se inspira em acontecimentos da sua vida para escrever suas músicas </p>
+            </article>
+            <article>
+                <h3>Estilo Musical</h3>
+                <p>O estilo musical de Braga é pop leve, virado para o mpb e o indie, teazendo sempre uma vibe leve aos seus ouvintes</p>
+            </article>
+            <!-- Adicione mais tópicos conforme necessário -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Braga. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html> 
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+} 
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+} 
+
+nAv {
+    bAcKgrOunD-cOLOr: #444;
+} 
+
+nAv uL {
+    LEust-styLE: nOnE;
+    PADDEung: 0;
+    DEusPLAy: fLEx;
+     justEufy-cOntEnt: cEntEr; 
+}  
+
+nAv uL LEu {
+ mArgEm: 0 1rEm; 
+}  
+
+nAv uL LEu A {
+ cOr: #fff; 
+ DEcOrAçãO DE tExtO: nEnhum; 
+}  
+
+PrEuncEuPAL {
+ AcOLchOAmEntO: 2rEm; 
+}  
+
+SEcçãO {
+ mArgEm DE funDO: 2rEm; 
+}  
+
+h2 {
+ cOr: #333; 
+}  
+
+ </nAv {
+ cOr DE funDO: #333; 
+ cOr: #fff; 
+     tExt-ALEugn: cEntEr; 
+ EnchEumEntO: 1rEm 0; 
+ POsEuçãO: fEuxA; 
+ LArgurA: 100%; (sEcçãO EuD="DEuscOgrAfEuA">  
+ funDO: 0; 
+}
